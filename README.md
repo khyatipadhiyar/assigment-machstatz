@@ -20,7 +20,7 @@ You can select button "Only with Firefox—Get Firefox Now" that automatically i
 In your browser's top right side, one red color icon will be displayed.
 click that icon to turn on CORS, icon will turn green once it is enabled.
 **step4:**
-After that you paste my submission link and you will be able to see the entire submission.
+After that you paste above mentioned link and you will be able to see the entire submission.
 
 Please let me know, what you think about my submission, all comments are welcome.
 
